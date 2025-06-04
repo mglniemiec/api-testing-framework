@@ -1,0 +1,11 @@
+# Bytecode files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Test reports
+reports/
+*.html
+
